@@ -3,4 +3,4 @@
   </p>
 ☆Welcome to EunJinK☆<br>
 🤨my major is embedded system<br>
-✉️kej7377@daum.net_<br>
+✉️kej7377@daum.net<br>
