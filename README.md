@@ -1,3 +1,2 @@
 # Welcome
-![KakaoTalk_20201207_165516273](https://user-images.githubusercontent.com/59238838/101324093-09368e00-38ad-11eb-8da3-bdc74fef65e3.jpg)
-<img src="https://user-images.githubusercontent.com/59238838/101324093-09368e00-38ad-11eb-8da3-bdc74fef65e3.jpg" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/59238838/101324093-09368e00-38ad-11eb-8da3-bdc74fef65e3.jpg" width="300" height="300">
