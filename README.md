@@ -2,4 +2,6 @@
 ### 🤨 my major is embedded system
 ### ✉️ kej7377@daum.net
 
-<img src="https://user-images.githubusercontent.com/59238838/101324093-09368e00-38ad-11eb-8da3-bdc74fef65e3.jpg" width="200" height="200">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59238838/101325407-0b99e780-38af-11eb-9414-153f82cbeb46.jpg" width="200" height="200">
+</p>
