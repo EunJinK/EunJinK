@@ -3,7 +3,8 @@
   
   <samp>
     Welcome to EunJinK<br>
-    🤨my major is embedded system<br>
+    :smile:my major is embedded system<br>
     ✉️kej7377@daum.net<br>
+    :fire:It's not good enough skills, but have fun looking around.
   </samp>
 </p>
